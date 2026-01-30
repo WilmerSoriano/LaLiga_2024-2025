@@ -1,0 +1,602 @@
+Player,Nation,Position,Team,Age,Match,Minutes,Goals,Assists,Yellow_Cards,Red_Cards
+Max Aarons,ENG,Defender (DF),Valencia,24,4,120,0,0,2,0
+Rodrigo Abajas,ESP,Defender (DF),Valencia,21,1,65,0,0,1,0
+Abel,ESP,Defender (DF),Osasuna,23,35,2074,2,0,3,0
+Nabil Aberdin,FRA,Midfielder (MF),Getafe,21,7,263,0,0,1,0
+Abdel Abqar,MAR,Defender (DF),Alavés,25,29,2463,0,1,13,0
+Akor Adams,NGA,Forward (FW),Sevilla,24,4,134,0,0,0,0
+Adrián,ESP,Goalkeeper (GK),Betis,37,19,1710,0,0,3,0
+Julen Agirrezabala,ESP,Goalkeeper (GK),Athletic Club,23,14,1206,0,0,1,1
+Lucien Agoume,FRA,Midfielder (MF),Sevilla,22,35,2114,1,3,5,1
+Ãlvaro Aguado,ESP,Midfielder (MF),Espanyol,28,16,443,0,1,3,0
+Lorenzo Aguado,ESP,Defender (DF),Real Madrid,21,2,5,0,0,0,0
+Nayef Aguerd,MAR,Defender (DF),Real Sociedad,28,21,1760,0,0,5,0
+Joseph Aidoo,GHA,Defender (DF),Valladolid,28,8,583,0,0,0,0
+Joseph Aidoo,GHA,Defender (DF),Celta Vigo,28,1,2,0,0,0,0
+Ilias Akhomach,MAR,Midfielder (MF),Villarreal,20,11,584,1,0,1,0
+David Alaba,AUT,Defender (DF),Real Madrid,32,7,317,0,0,1,0
+Ibrahim Alani,NGA,Midfielder (MF),Valladolid,18,3,160,0,0,0,0
+Raúl Albiol,ESP,Defender (DF),Villarreal,38,15,1188,0,0,5,0
+Omar Alderete,PAR,Defender (DF),Getafe,27,34,2971,1,0,8,0
+Carles Aleñá,ESP,Midfielder (MF),Getafe,26,10,452,0,0,1,0
+Carles Aleñá,ESP,Midfielder (MF),Alavés,26,14,1090,0,2,1,0
+Alfon,ESP,Forward (FW),Celta Vigo,25,26,1371,5,2,1,1
+Tadeo Allende,ARG,Forward (FW),Celta Vigo,25,1,2,0,0,1,0
+Domingos André Ribeiro Almeida,POR,Midfielder (MF),Valencia,24,34,1977,0,4,2,0
+Iker Almena,ESP,Forward (FW),Girona,20,2,48,0,1,0,0
+Marcos Alonso,ESP,Defender (DF),Celta Vigo,33,31,2647,3,0,10,2
+Adrià Altimira,ESP,Defender (DF),Leganés,23,22,1630,0,0,6,0
+Sergi Altimira,ESP,Midfielder (MF),Betis,22,32,1972,0,1,4,0
+Hugo Álvarez,ESP,Midfielder (MF),Celta Vigo,21,26,1572,4,3,6,0
+Julián Álvarez,ARG,Forward (FW),Atlético Madrid,24,37,2509,17,4,5,0
+Yeray Álvarez,ESP,Defender (DF),Athletic Club,29,21,1781,1,0,4,0
+Selim Amallah,MAR,Midfielder (MF),Valladolid,27,24,1376,3,1,6,0
+Amath,SEN,Forward (FW),Valladolid,28,13,375,0,1,1,0
+Marcos André,BRA,Forward (FW),Valladolid,27,22,1188,1,2,5,0
+Leandro Antonetti,PUR,Forward (FW),Sevilla,21,2,28,0,0,0,0
+Antoniu,ESP,Forward (FW),Espanyol,21,26,1022,0,1,3,0
+Antony,BRA,Forward (FW),Betis,24,17,1362,5,2,2,1
+Anuar,MAR,Midfielder (MF),Valladolid,29,26,1720,2,0,7,0
+Aritz Arambarri,ESP,Defender (DF),Leganés,26,2,177,0,0,0,0
+Mauro Arambarri,URU,Midfielder (MF),Getafe,28,35,2661,10,0,10,0
+Jon Aramburu,VEN,Defender (DF),Real Sociedad,22,35,2460,1,1,8,0
+Ronald Araújo,URU,Defender (DF),Barcelona,25,12,754,1,1,3,0
+Adu Ares,ESP,Forward (FW),Athletic Club,22,1,19,0,0,0,0
+Jesús Areso,ESP,Defender (DF),Osasuna,25,36,3079,0,3,9,0
+David Argüelles,ESP,Midfielder (MF),Getafe,22,1,7,0,0,0,0
+José Arnaiz,ESP,Forward (FW),Osasuna,29,15,133,0,0,0,0
+Sergio Arribas,ESP,Defender (DF),Betis,21,1,90,0,0,0,0
+Takuma Asano,JPN,Forward (FW),Mallorca,29,21,1054,2,1,0,0
+Raúl Asencio,ESP,Defender (DF),Real Madrid,21,23,1670,0,1,3,0
+Iago Aspas,ESP,Forward (FW),Celta Vigo,36,30,1745,10,5,6,1
+Yaser Asprilla,COL,Forward (FW),Girona,20,27,1405,3,1,2,0
+Ezequiel Ávila,ARG,Forward (FW),Betis,30,19,677,2,0,5,1
+Adam Aznou,MAR,Defender (DF),Valladolid,18,13,876,0,0,1,0
+César Azpilicueta,ESP,Defender (DF),Atlético Madrid,34,14,875,1,0,1,0
+Papa Ba,ESP,Midfielder (MF),Girona,19,1,48,0,0,0,0
+Loïc Bade,FRA,Defender (DF),Sevilla,24,32,2686,1,1,7,1
+Alex Baena,ESP,Midfielder (MF),Villarreal,23,32,2595,7,9,9,0
+Juma Bah,SLE,Defender (DF),Valladolid,18,12,864,0,0,1,0
+Eric Bailly,CIV,Defender (DF),Villarreal,30,12,617,0,0,2,1
+Stefan Bajcetic,ESP,Midfielder (MF),Las Palmas,19,14,969,1,0,4,0
+Cédric Bakambu,COD,Forward (FW),Betis,33,25,710,2,2,4,0
+Alejandro Balde,ESP,Defender (DF),Barcelona,20,32,2284,0,4,2,0
+Iván Balliu,ALB,Defender (DF),Rayo Vallecano,32,25,1200,0,0,3,0
+Jonathan Bamba,CIV,Forward (FW),Celta Vigo,28,12,811,0,1,1,0
+Adrian Baquerin,ESP,Forward (FW),Valladolid,17,5,49,0,0,0,0
+Valentín Barco,ARG,Defender (DF),Sevilla,20,7,288,0,0,0,0
+Borna Barišić,CRO,Defender (DF),Leganés,31,1,9,0,0,0,0
+Kike Barja,ESP,Forward (FW),Osasuna,27,15,315,0,1,3,0
+Enzo Barrenechea,ARG,Midfielder (MF),Valencia,23,30,2191,1,2,6,0
+Ander Barrenetxea,ESP,Midfielder (MF),Real Sociedad,22,30,1263,1,3,6,0
+Pablo Barrios,ESP,Midfielder (MF),Atlético Madrid,21,31,2330,1,4,4,1
+Thierno Barry,FRA,Forward (FW),Villarreal,21,35,2323,11,4,4,0
+Marc Bartra,ESP,Defender (DF),Betis,33,25,2099,2,1,2,0
+Aboubacar Bassinga,CIV,Midfielder (MF),Las Palmas,19,1,4,0,0,0,0
+Augusto Batalla,ARG,Goalkeeper (GK),Rayo Vallecano,28,32,2880,0,0,6,0
+Rafael Bauza,ESP,Midfielder (MF),Espanyol,19,5,183,0,0,1,0
+Sheraldo Becker,SUR,Forward (FW),Real Sociedad,29,22,995,2,1,1,1
+Donny van de Beek,NED,Midfielder (MF),Girona,27,26,1421,2,2,5,0
+Luken Beitia,ESP,Defender (DF),Real Sociedad,20,1,8,0,0,0,0
+Ismael Bekhoucha,MAR,Midfielder (MF),Getafe,19,5,69,0,0,2,0
+Héctor Bellerín,ESP,Defender (DF),Betis,29,9,580,0,2,1,0
+Jude Bellingham,ENG,Midfielder (MF),Real Madrid,21,31,2488,9,8,5,1
+Fran Beltrán,ESP,Midfielder (MF),Celta Vigo,25,34,2421,2,1,3,0
+Carlos Benavídez,URU,Midfielder (MF),Alavés,26,18,487,1,1,3,0
+Iker Benito,ESP,Forward (FW),Osasuna,21,2,37,0,0,0,0
+Yuri Berchiche,ESP,Defender (DF),Athletic Club,34,30,2044,0,2,5,0
+Álex Berenguer,ESP,Forward (FW),Athletic Club,29,36,2339,6,7,5,0
+Marc Bernal,ESP,Midfielder (MF),Barcelona,17,3,242,0,0,2,0
+Juan Bernat,ESP,Defender (DF),Villarreal,31,10,212,0,1,0,0
+Juan Bernat,ESP,Defender (DF),Getafe,31,14,699,0,1,0,0
+Juan Berrocal,ESP,Defender (DF),Getafe,25,19,1063,0,0,8,1
+Antonio Blanco,ESP,Midfielder (MF),Alavés,24,35,2727,0,1,11,1
+Daley Blind,NED,Defender (DF),Girona,34,34,2780,0,2,2,0
+Adama Boiro,ESP,Defender (DF),Athletic Club,22,18,1101,0,0,3,0
+Enzo Boyomo,CMR,Defender (DF),Osasuna,22,34,2987,2,0,5,0
+Enzo Boyomo,CMR,Defender (DF),Valladolid,22,3,270,0,0,0,0
+Darko Brašanac,SRB,Midfielder (MF),Leganés,32,30,1617,1,2,4,0
+Tajon Buchanan,CAN,Midfielder (MF),Villarreal,25,13,416,1,2,2,0
+Ante Budimir,CRO,Forward (FW),Osasuna,33,38,2952,21,4,4,0
+Manu Bueno,ESP,Midfielder (MF),Sevilla,20,9,140,1,0,0,0
+Endika Buján,ESP,Forward (FW),Athletic Club,21,1,7,0,0,0,0
+Pau Cabanes,ESP,Midfielder (MF),Villarreal,19,10,163,1,0,0,0
+Pau Cabanes,ESP,Midfielder (MF),Alavés,19,6,188,0,0,1,0
+Leandro Cabrera,URU,Defender (DF),Espanyol,33,33,2869,4,2,4,1
+Fernando Calero,ESP,Defender (DF),Espanyol,28,21,715,1,0,1,0
+Eduardo Camavinga,FRA,Midfielder (MF),Real Madrid,21,19,1102,1,2,2,0
+Sergio Camello,ESP,Forward (FW),Rayo Vallecano,23,23,1134,3,2,2,0
+José Campaña,ESP,Midfielder (MF),Las Palmas,31,25,1189,0,3,5,0
+Peio Canales,ESP,Midfielder (MF),Athletic Club,19,8,259,0,0,0,0
+Antonio Candela,ITA,Defender (DF),Valladolid,24,12,906,0,0,1,0
+Sergi Canós,ESP,Midfielder (MF),Valencia,27,17,370,0,1,3,0
+Dani Cárdenas,ESP,Goalkeeper (GK),Rayo Vallecano,27,6,540,0,0,0,0
+Irvin Cardona,FRA,Forward (FW),Espanyol,26,16,606,1,1,1,0
+Marc Cardona,ESP,Forward (FW),Las Palmas,29,11,132,0,0,2,0
+Sergi Cardona,ESP,Defender (DF),Villarreal,25,35,2945,1,7,11,0
+Johnny Cardoso,USA,Midfielder (MF),Betis,22,28,2144,3,1,4,0
+José Carlos González,ESP,Defender (DF),Las Palmas,18,1,11,0,0,0,0
+Carmona,ESP,Defender (DF),Sevilla,22,35,2942,0,0,11,0
+Sergio Carreira,ESP,Midfielder (MF),Celta Vigo,23,23,1656,0,4,1,0
+Dani Carvajal,ESP,Defender (DF),Real Madrid,32,8,609,1,0,1,0
+William Carvalho,POR,Midfielder (MF),Betis,32,14,484,0,0,1,0
+Marc Casado,ESP,Midfielder (MF),Barcelona,20,23,1611,1,3,4,1
+Catena,ESP,Defender (DF),Osasuna,29,35,3074,1,3,11,0
+Maximiliano Caufriez,BEL,Defender (DF),Valencia,27,1,90,0,0,0,0
+Dani Ceballos,ESP,Midfielder (MF),Real Madrid,27,23,1215,0,0,4,0
+Franco Cervi,ARG,Forward (FW),Celta Vigo,30,7,273,0,0,1,0
+Raúl Chasco,ESP,Defender (DF),Valladolid,20,2,130,0,0,0,0
+Pep Chavarría,ESP,Defender (DF),Rayo Vallecano,26,34,2585,0,1,3,0
+Walid Cheddira,MAR,Forward (FW),Espanyol,26,22,640,1,1,3,0
+Chema,ESP,Midfielder (MF),Real Madrid,19,2,12,0,0,0,0
+Julián Chicco,ARG,Midfielder (MF),Leganés,26,14,302,0,1,0,0
+Chiquinho,POR,Midfielder (MF),Mallorca,24,8,146,0,0,2,0
+Andreas Christensen,DEN,Defender (DF),Barcelona,28,5,254,0,0,3,0
+Jasper Cillessen,NED,Goalkeeper (GK),Las Palmas,35,27,2335,0,0,1,0
+Pathé Ciss,SEN,Midfielder (MF),Rayo Vallecano,30,33,2140,4,1,12,0
+Seydouba Cissé,GUI,Midfielder (MF),Leganés,23,34,2435,3,1,3,1
+Silvi Clúa,ESP,Midfielder (MF),Girona,19,4,163,0,0,0,0
+Eray Cömert,SUI,Defender (DF),Valladolid,26,25,1779,0,0,6,0
+Santi Comesaña,ESP,Midfielder (MF),Villarreal,27,35,2560,4,2,7,0
+Diego Conde,ESP,Goalkeeper (GK),Villarreal,25,22,1962,0,1,2,0
+Tomás Conechny,ARG,Forward (FW),Alavés,26,22,847,1,0,8,0
+Copete,ESP,Defender (DF),Mallorca,24,25,1528,0,0,6,0
+Iker Córdoba,ESP,Defender (DF),Valencia,18,2,15,0,0,0,0
+Ángel Correa,ARG,Forward (FW),Atlético Madrid,29,31,805,4,1,3,1
+Thierry Correia,POR,Defender (DF),Valencia,25,11,768,0,0,1,0
+Coba da Costa,ESP,Midfielder (MF),Getafe,22,19,1006,1,1,4,0
+Logan Costa,CPV,Defender (DF),Villarreal,23,32,2587,2,1,3,0
+Samu Costa,POR,Midfielder (MF),Mallorca,23,32,2649,0,2,10,1
+Thibaut Courtois,BEL,Goalkeeper (GK),Real Madrid,32,30,2700,0,0,1,0
+Juan Cruz Armada,ESP,Defender (DF),Osasuna,32,25,1492,0,0,4,0
+Juan Cruz,ESP,Forward (FW),Leganés,24,34,2257,5,4,2,0
+Pau Cubarsí,ESP,Defender (DF),Barcelona,17,35,2618,0,3,3,0
+Cucho,COL,Forward (FW),Betis,25,15,1139,5,1,0,0
+Arnaut Danjuma,NED,Forward (FW),Villarreal,27,3,200,2,0,1,0
+Arnaut Danjuma,NED,Forward (FW),Girona,27,25,1335,2,0,2,0
+Sergi Darder,ESP,Midfielder (MF),Mallorca,30,38,2744,2,6,4,0
+Rodrigo De Paul,ARG,Midfielder (MF),Atlético Madrid,30,34,2106,3,5,7,0
+Mouctar Diakhaby,GUI,Defender (DF),Valencia,27,13,653,2,0,0,0
+Assane Diao,SEN,Forward (FW),Betis,18,10,277,1,2,0,0
+Moussa Diarra,MLI,Defender (DF),Alavés,23,26,1866,0,0,6,0
+Brahim Díaz,MAR,Forward (FW),Real Madrid,24,31,1385,4,2,0,0
+Daniel Díaz,ESP,Midfielder (MF),Real Sociedad,18,1,10,0,0,0,0
+Pedro Díaz,ESP,Midfielder (MF),Rayo Vallecano,26,26,1211,3,0,2,0
+Diego,ESP,Forward (FW),Leganés,24,28,1195,3,0,2,0
+Stole Dimitrievski,MKD,Goalkeeper (GK),Valencia,30,4,360,0,0,1,0
+Yan Diomandé,CIV,Midfielder (MF),Leganés,17,10,545,2,1,1,0
+Álvaro djaló,ESP,Forward (FW),Athletic Club,24,17,659,1,0,2,0
+Djené,TOG,Defender (DF),Getafe,32,31,2548,0,0,10,1
+Marko Dmitrović,SRB,Goalkeeper (GK),Leganés,32,32,2880,0,0,0,0
+Marc Domenech,ESP,Forward (FW),Mallorca,18,10,303,0,0,0,0
+Carlos Dominguez,ESP,Defender (DF),Celta Vigo,23,19,1181,0,0,1,0
+Israel Domínguez,ESP,Forward (FW),Sevilla,21,1,18,0,0,0,0
+Sergi Dominguez,ESP,Defender (DF),Barcelona,19,3,172,0,0,1,0
+Anastasios Douvikas,GRE,Forward (FW),Celta Vigo,24,20,700,3,1,2,0
+Domingos Duarte,POR,Defender (DF),Getafe,29,22,1859,1,0,4,2
+Duk,CPV,Midfielder (MF),Leganés,24,10,179,0,0,1,0
+Pablo Durán,ESP,Forward (FW),Celta Vigo,23,27,1394,4,4,3,0
+Hugo Duro,ESP,Forward (FW),Valencia,24,31,2166,11,2,5,0
+Chidera Ejuke,NGA,Forward (FW),Sevilla,26,25,966,2,1,0,0
+Aritz Elustondo,ESP,Defender (DF),Real Sociedad,30,22,1457,0,0,2,1
+Adri Embarba,ESP,Forward (FW),Rayo Vallecano,32,35,1607,1,1,4,0
+Endrick,BRA,Forward (FW),Real Madrid,18,22,363,1,0,1,0
+Alfonso Espino,URU,Defender (DF),Rayo Vallecano,32,16,833,0,1,4,0
+Dario Essugo,POR,Midfielder (MF),Las Palmas,19,27,1938,1,0,11,2
+Etienne Eto'o,CMR,Forward (FW),Rayo Vallecano,21,2,40,0,0,0,0
+Karl Etta,CMR,Midfielder (MF),Villarreal,20,4,37,1,0,0,0
+Edu Expósito,ESP,Midfielder (MF),Espanyol,27,19,1045,0,2,3,0
+Abde Ezzalzouli,MAR,Forward (FW),Betis,22,32,1984,2,2,2,0
+Ansu Fati,ESP,Forward (FW),Barcelona,21,6,233,0,0,1,0
+Nabil Fekir,FRA,Midfielder (MF),Betis,31,2,180,0,1,0,0
+Kiko Femenía,ESP,Defender (DF),Villarreal,33,28,2227,0,1,7,0
+Aitor Fernández,ESP,Goalkeeper (GK),Osasuna,33,1,90,0,0,0,0
+Álvaro Fernández,ESP,Goalkeeper (GK),Sevilla,26,9,747,0,0,2,0
+Pelayo Fernandez,ESP,Defender (DF),Rayo Vallecano,21,2,98,0,0,1,0
+Roberto Férnandez,ESP,Forward (FW),Espanyol,22,19,1497,6,0,1,0
+Valery Fernández,ESP,Midfielder (MF),Mallorca,24,18,309,2,0,1,0
+André Ferreira,POR,Goalkeeper (GK),Valladolid,28,6,540,0,0,0,0
+Mateo Flores,ESP,Midfielder (MF),Betis,20,6,153,0,0,1,0
+Pablo Fornals,ESP,Midfielder (MF),Betis,28,26,1827,2,0,2,0
+Héctor Fort,ESP,Defender (DF),Barcelona,17,17,585,0,0,2,0
+Dimitri Foulquier,FRA,Defender (DF),Valencia,31,32,2299,0,1,6,0
+Juan Foyth,ARG,Defender (DF),Villarreal,26,19,1517,1,0,4,0
+Fran,ESP,Goalkeeper (GK),Real Madrid,19,1,90,0,0,0,0
+Alejandro Francés,ESP,Defender (DF),Girona,21,18,1173,0,0,2,0
+Enric Franquesa,ESP,Defender (DF),Leganés,27,12,616,1,0,1,0
+Jorge de Frutos,ESP,Forward (FW),Rayo Vallecano,27,36,2495,6,3,3,1
+Darío Fuentes,ESP,Defender (DF),Sevilla,21,1,5,0,0,1,0
+Manuel Fuster,ESP,Forward (FW),Las Palmas,26,28,1003,2,1,2,0
+Javi Galán,ESP,Defender (DF),Atlético Madrid,29,25,1784,0,3,8,0
+Iñigo Ruiz de Galarreta,ESP,Midfielder (MF),Athletic Club,30,26,1477,0,4,5,0
+Conor Gallagher,ENG,Midfielder (MF),Atlético Madrid,24,32,1633,3,3,2,0
+Facundo Garcés,MAS,Defender (DF),Alavés,24,10,678,0,0,2,0
+Álvaro García,ESP,Forward (FW),Rayo Vallecano,31,36,2559,4,5,4,0
+Eric García,ESP,Defender (DF),Barcelona,23,29,1566,2,3,4,0
+Fran Garcia,ESP,Defender (DF),Real Madrid,24,31,2171,0,2,0,0
+Gonzalo García,ESP,Forward (FW),Real Madrid,20,3,56,0,1,0,0
+Joan García,ESP,Goalkeeper (GK),Espanyol,23,38,3420,0,0,2,0
+Pablo Garcia,ESP,Forward (FW),Betis,17,3,38,0,0,0,0
+Rubén García,ESP,Forward (FW),Osasuna,31,36,2413,5,5,2,0
+Unai García,ESP,Defender (DF),Osasuna,32,3,65,0,0,0,0
+Yarek Gasiorowski,ESP,Defender (DF),Valencia,19,15,947,0,0,1,0
+Gavi,ESP,Midfielder (MF),Barcelona,19,26,1085,1,1,4,0
+Paulo Gazzaniga,ARG,Goalkeeper (GK),Girona,32,36,3195,0,0,4,0
+Bryan Gil,ESP,Forward (FW),Girona,23,25,1721,3,3,4,0
+Dani Gómez,ESP,Forward (FW),Valencia,26,14,532,2,0,0,0
+Moi Gómez,ESP,Midfielder (MF),Osasuna,30,26,796,0,0,1,0
+Sergi Gómez,ESP,Defender (DF),Espanyol,32,12,664,0,0,1,0
+Sergio Gómez,ESP,Midfielder (MF),Real Sociedad,23,37,2738,2,5,4,0
+Unai Gómez,ESP,Midfielder (MF),Athletic Club,21,32,1284,1,3,1,0
+Fabio González,ESP,Midfielder (MF),Las Palmas,27,2,53,0,0,0,0
+Peter González,DOM,Midfielder (MF),Getafe,22,17,477,0,0,1,0
+Urko González,ESP,Midfielder (MF),Espanyol,23,17,1374,0,2,2,0
+Urko González,ESP,Midfielder (MF),Real Sociedad,23,1,45,0,0,1,0
+Andoni Gorosabel,ESP,Defender (DF),Athletic Club,27,20,1485,0,2,5,0
+José Gragera,ESP,Midfielder (MF),Espanyol,23,10,569,0,0,0,0
+Dominik Greif,SVK,Goalkeeper (GK),Mallorca,27,31,2790,0,0,1,0
+Antoine Griezmann,FRA,Forward (FW),Atlético Madrid,33,38,2469,8,7,2,0
+Florian Grillitsch,AUT,Midfielder (MF),Valladolid,28,13,623,0,0,1,0
+Vicente Guaita,ESP,Goalkeeper (GK),Celta Vigo,37,34,3060,0,0,0,0
+Sergi Guardiola,ESP,Forward (FW),Rayo Vallecano,33,16,362,0,0,1,0
+Nemanja Gudelj,SRB,Midfielder (MF),Sevilla,32,31,2493,1,1,6,0
+Javier Guerra,ESP,Midfielder (MF),Valencia,21,36,2581,3,3,5,0
+Ander Guevara,ESP,Midfielder (MF),Alavés,27,33,1947,0,1,3,0
+Pape Gueye,SEN,Midfielder (MF),Villarreal,25,34,2224,4,0,6,2
+Hugo Guillamón,ESP,Midfielder (MF),Valencia,24,12,364,0,0,2,0
+Carlos Guirao,ESP,Midfielder (MF),Betis,21,2,110,0,0,0,0
+Arda Güler,TUR,Midfielder (MF),Real Madrid,19,28,1250,3,4,1,0
+Gerard Gumbau,ESP,Midfielder (MF),Rayo Vallecano,29,22,849,0,1,4,0
+Jon Guridi,ESP,Midfielder (MF),Alavés,29,33,2080,3,1,6,0
+Gorka Guruzeta,ESP,Forward (FW),Athletic Club,27,36,1840,7,2,2,0
+Miguel Gutiérrez,ESP,Defender (DF),Girona,23,29,2458,1,5,4,0
+Munir El Haddadi,MAR,Forward (FW),Leganés,28,25,862,4,0,1,1
+Sébastien Haller,CIV,Forward (FW),Leganés,30,8,404,0,0,0,0
+Henrique,BRA,Defender (DF),Valladolid,30,5,352,0,0,0,0
+Javi Hernández,ESP,Defender (DF),Leganés,26,31,2389,2,1,6,0
+Aridane Hernández,ESP,Defender (DF),Rayo Vallecano,35,14,1025,0,0,1,0
+Jorge Herrando,ESP,Defender (DF),Osasuna,23,18,1366,1,0,3,0
+Ander Herrera,ESP,Midfielder (MF),Athletic Club,34,8,273,0,0,2,0
+Sergio Herrera,ESP,Goalkeeper (GK),Osasuna,31,37,3330,0,0,5,0
+Yangel Herrera,VEN,Midfielder (MF),Girona,26,29,2257,4,3,10,1
+Juan Herzog,ESP,Defender (DF),Las Palmas,21,19,1315,0,0,1,0
+Omar El Hilali,MAR,Defender (DF),Espanyol,20,36,3153,0,2,11,0
+Roger Hinojo,ESP,Defender (DF),Espanyol,19,1,9,0,0,0,0
+Dinko Horkaš,CRO,Goalkeeper (GK),Las Palmas,25,13,1085,0,0,1,0
+Pablo Ibáñez,ESP,Midfielder (MF),Osasuna,25,28,1294,1,1,4,0
+Stanis Idumbo,BEL,Forward (FW),Sevilla,19,14,284,1,1,0,0
+Iglesias,ESP,Defender (DF),Getafe,26,37,2888,0,1,4,0
+Borja Iglesias,ESP,Forward (FW),Celta Vigo,31,37,1952,11,3,2,0
+Kelechi Iheanacho,NGA,Forward (FW),Sevilla,27,9,400,0,0,0,0
+Isco,ESP,Midfielder (MF),Betis,32,22,1547,9,8,5,0
+Diego Iturralde,ESP,Forward (FW),Sevilla,21,1,37,0,0,0,0
+Ivan Jaime Pajuelo,ESP,Midfielder (MF),Valencia,23,9,297,0,0,0,0
+Karl Jakob Hein,EST,Goalkeeper (GK),Valladolid,22,31,2790,0,0,0,0
+Adnan Januzaj,BEL,Midfielder (MF),Las Palmas,29,18,598,2,1,5,0
+Mikel Jauregizar,ESP,Midfielder (MF),Athletic Club,20,34,2244,2,1,4,1
+John Joe,IRL,Midfielder (MF),Getafe,20,4,48,0,0,1,0
+Jofre,ESP,Midfielder (MF),Espanyol,23,37,2165,3,3,5,0
+Frenkie de Jong,NED,Midfielder (MF),Barcelona,27,26,1143,2,2,3,0
+Joan Jordán,ESP,Midfielder (MF),Alavés,30,25,1414,5,2,4,0
+Juanmi,ESP,Forward (FW),Getafe,31,13,696,0,0,2,0
+Juanmi,ESP,Forward (FW),Betis,31,11,244,0,0,2,0
+Juanpe,ESP,Defender (DF),Girona,33,12,727,0,0,2,0
+Luiz Lúcio Reis Júnior,BRA,Goalkeeper (GK),Villarreal,23,17,1458,0,0,2,0
+Vinicius Júnior,BRA,Forward (FW),Real Madrid,24,30,2253,11,8,8,1
+Stanko Jurić,CRO,Midfielder (MF),Valladolid,27,26,1729,0,0,7,1
+Willy Kambwala,FRA,Defender (DF),Villarreal,19,19,1117,0,0,1,1
+Abdoulaye Keita,ESP,Forward (FW),Getafe,21,3,95,0,0,0,0
+Kenedy,BRA,Midfielder (MF),Valladolid,28,2,9,0,0,0,0
+Kiké,ESP,Forward (FW),Alavés,34,35,2542,13,0,5,1
+Koke,ESP,Midfielder (MF),Atlético Madrid,32,32,1926,1,1,4,0
+Jules Koundé,FRA,Defender (DF),Barcelona,25,32,2605,2,3,4,0
+Alex Král,CZE,Midfielder (MF),Espanyol,26,37,2714,0,1,1,0
+Ladislav Krejčí,CZE,Defender (DF),Girona,25,28,2440,2,0,9,0
+Takefusa Kubo,JPN,Midfielder (MF),Real Sociedad,23,36,2372,5,0,5,0
+Marash Kumbulla,ALB,Defender (DF),Espanyol,24,35,2972,3,0,9,0
+Luca de la Torre,USA,Midfielder (MF),Celta Vigo,26,1,4,0,0,0,0
+Yoel Lago,ESP,Defender (DF),Celta Vigo,20,8,583,0,1,2,0
+Cyle Larin,CAN,Forward (FW),Mallorca,29,32,1764,7,2,4,0
+Juanmi Latasa,ESP,Forward (FW),Valladolid,23,28,1398,3,0,6,1
+Toni Lato,ESP,Defender (DF),Mallorca,26,14,621,0,0,1,1
+Robin Le Normand,ESP,Defender (DF),Atlético Madrid,27,27,2151,1,0,8,0
+Florian Lejeune,FRA,Defender (DF),Rayo Vallecano,33,37,3325,2,3,8,0
+Iñigo Lekue,ESP,Defender (DF),Athletic Club,31,16,773,0,0,1,0
+Thomas Lemar,FRA,Midfielder (MF),Atlético Madrid,28,5,85,0,0,0,0
+Clément Lenglet,FRA,Defender (DF),Atlético Madrid,29,23,1972,2,1,9,0
+Robert Lewandowski,POL,Forward (FW),Barcelona,35,34,2667,27,2,1,0
+Samuel Lino,BRA,Midfielder (MF),Atlético Madrid,24,31,1552,3,4,3,0
+Javier Llabrés,ESP,Forward (FW),Mallorca,21,1,57,0,0,0,0
+Diego Llorente,ESP,Defender (DF),Betis,30,30,2519,2,0,4,0
+Marcos Llorente,ESP,Defender (DF),Atlético Madrid,29,33,2513,2,4,0,1
+Giovani Lo Celso,ARG,Midfielder (MF),Betis,28,25,1457,8,3,4,0
+Enzo Loiodice,FRA,Midfielder (MF),Las Palmas,23,17,684,0,0,3,0
+David López,ESP,Defender (DF),Mallorca,21,2,169,0,0,0,0
+David López,ESP,Defender (DF),Girona,34,29,2429,1,1,4,0
+Diego López,ESP,Midfielder (MF),Valencia,22,38,2737,8,5,3,0
+Fer López,ESP,Forward (FW),Celta Vigo,21,17,671,2,0,2,0
+Fermin López,ESP,Midfielder (MF),Barcelona,21,28,1252,6,5,4,1
+Javi López,ESP,Defender (DF),Real Sociedad,22,29,1936,0,0,4,0
+Pau López,ESP,Goalkeeper (GK),Girona,29,1,45,0,0,0,0
+Roberto López,ESP,Midfielder (MF),Leganés,24,13,396,0,1,0,0
+Unai López,ESP,Midfielder (MF),Rayo Vallecano,28,32,1707,3,1,9,1
+Iker Losada,ESP,Forward (FW),Celta Vigo,22,12,358,1,0,2,0
+Iker Losada,ESP,Forward (FW),Betis,22,10,336,0,0,0,0
+Pol Lozano,ESP,Midfielder (MF),Espanyol,24,30,1943,0,1,12,0
+José Luis Gayà,ESP,Defender (DF),Valencia,29,23,1803,0,1,7,0
+Dodi Lukebakio,BEL,Forward (FW),Sevilla,26,38,3092,11,2,3,1
+Daniel Luna,COL,Midfielder (MF),Mallorca,21,2,20,0,0,0,0
+Andriy Lunin,UKR,Goalkeeper (GK),Real Madrid,25,7,630,0,1,0,0
+Darwin Machís,VEN,Midfielder (MF),Valladolid,31,18,639,0,1,0,0
+Pablo Maffeo,ESP,Defender (DF),Mallorca,27,30,2368,0,2,7,0
+Jon Magunazelaia,ESP,Midfielder (MF),Real Sociedad,23,2,7,0,0,0,0
+Giorgi Mamardashvili,GEO,Goalkeeper (GK),Valencia,23,34,3060,0,0,2,0
+Reinildo Mandava,MOZ,Defender (DF),Atlético Madrid,30,19,941,0,0,4,0
+Javier Manquillo,ESP,Defender (DF),Celta Vigo,30,10,515,0,0,1,0
+Marcão,BRA,Defender (DF),Sevilla,28,12,552,0,0,6,1
+Óscar de Marcos,ESP,Defender (DF),Athletic Club,35,26,1564,0,4,0,0
+Alberto Marí,ESP,Forward (FW),Valencia,23,1,7,0,0,0,0
+José María Giménez,URU,Defender (DF),Atlético Madrid,29,27,1999,0,1,5,0
+Arkaitz Mariezkurrena,ESP,Forward (FW),Real Sociedad,19,9,241,2,0,1,0
+Pablo Marín,ESP,Midfielder (MF),Real Sociedad,21,23,1239,1,2,3,0
+Mika Mármol,ESP,Defender (DF),Las Palmas,23,30,2399,0,1,5,0
+Mario Maroto,ESP,Midfielder (MF),Valladolid,20,2,64,0,1,0,0
+Unai Marrero,ESP,Goalkeeper (GK),Real Sociedad,22,2,180,0,0,0,0
+Carlos Martín,ESP,Forward (FW),Alavés,22,26,1333,2,2,3,0
+Diego Martín,ESP,Forward (FW),Las Palmas,20,2,40,0,0,0,0
+Gerard Martín,ESP,Defender (DF),Barcelona,22,28,1038,1,3,2,0
+Iván Martín,ESP,Midfielder (MF),Girona,25,32,2039,1,1,1,0
+Jon Martin,ESP,Defender (DF),Real Sociedad,18,13,904,0,1,2,0
+Mario Martín,ESP,Midfielder (MF),Valladolid,20,30,1748,0,1,8,3
+Arnau Martinez,ESP,Defender (DF),Girona,21,32,2624,2,2,3,0
+Iñigo Martínez,ESP,Defender (DF),Barcelona,33,28,2490,0,4,5,0
+Javi Martínez,ESP,Midfielder (MF),Osasuna,24,1,6,0,0,0,0
+Ramón Martínez,ESP,Defender (DF),Sevilla,21,5,261,1,0,0,0
+Toni Martínez,ESP,Forward (FW),Alavés,27,28,1012,4,0,1,0
+Javi Martón,ESP,Forward (FW),Athletic Club,25,3,53,0,0,1,0
+Marvin,ESP,Defender (DF),Las Palmas,24,23,1038,0,0,4,0
+Omar Mascarell,EQG,Midfielder (MF),Mallorca,31,32,1992,1,0,5,1
+Jaime Mata,ESP,Forward (FW),Las Palmas,35,30,656,0,0,9,0
+Borja Mayoral,ESP,Forward (FW),Getafe,27,24,1114,5,1,0,0
+Kylian Mbappé,FRA,Forward (FW),Real Madrid,25,34,2907,31,3,3,1
+Oliver McBurnie,SCO,Forward (FW),Las Palmas,28,34,1837,3,6,3,0
+Scott McKenna,SCO,Defender (DF),Las Palmas,27,29,2466,0,0,5,1
+Mateo Mejía,ESP,Forward (FW),Sevilla,21,1,11,0,0,0,0
+Arthur Melo,BRA,Midfielder (MF),Girona,27,15,941,0,0,2,0
+Brais Méndez,ESP,Midfielder (MF),Real Sociedad,27,27,1531,3,2,4,0
+Ferland Mendy,FRA,Defender (DF),Real Madrid,29,14,1005,0,1,1,1
+Nobel Mendy,FRA,Defender (DF),Betis,19,2,108,0,0,1,0
+Víctor Meseguer,ESP,Midfielder (MF),Valladolid,25,14,418,0,0,1,0
+Miguel,ESP,Forward (FW),Leganés,24,34,1724,1,3,3,0
+Éder Militão,BRA,Defender (DF),Real Madrid,26,12,938,1,1,2,0
+Luis Milla,ESP,Midfielder (MF),Getafe,29,33,2875,1,4,6,0
+Pere Milla,ESP,Midfielder (MF),Espanyol,31,20,456,3,0,3,0
+Óscar Mingueza,ESP,Midfielder (MF),Celta Vigo,25,34,2729,4,6,6,1
+Kim Minsu,KOR,Midfielder (MF),Girona,18,3,22,0,0,0,0
+Bojan Miovski,MKD,Forward (FW),Girona,25,17,869,2,1,0,0
+Rafa Mir,ESP,Forward (FW),Valencia,27,20,753,1,2,4,0
+Luka Modrić,CRO,Midfielder (MF),Real Madrid,38,35,1827,2,6,7,0
+Johan Mojica,COL,Defender (DF),Mallorca,31,36,2755,1,2,5,0
+Alberto Moleiro,ESP,Forward (FW),Las Palmas,20,35,2714,6,1,5,0
+Nahuel Molina,ARG,Defender (DF),Atlético Madrid,26,30,1590,0,3,1,0
+Jon Moncayola,ESP,Midfielder (MF),Osasuna,26,32,2099,0,0,8,0
+Gonzalo Montiel,ARG,Defender (DF),Sevilla,27,6,113,0,0,1,0
+Gerard Moreno,ESP,Forward (FW),Villarreal,32,17,721,3,2,0,0
+Xavier Moreno,ESP,Forward (FW),Valladolid,19,1,45,0,0,0,0
+Mateu Morey,ESP,Defender (DF),Mallorca,24,16,741,0,0,1,0
+Ilaix Moriba,GUI,Midfielder (MF),Celta Vigo,21,33,2132,1,1,9,1
+Manu Morlanes,ESP,Midfielder (MF),Mallorca,25,23,1338,0,0,7,0
+Raúl Moro,ESP,Midfielder (MF),Valladolid,21,33,2341,4,5,2,0
+Cristhian Mosquera,ESP,Defender (DF),Valencia,20,37,3319,1,0,6,0
+Santiago Mouriño,URU,Defender (DF),Alavés,22,25,1849,0,1,7,0
+Abdul Mumin,GHA,Defender (DF),Rayo Vallecano,26,24,2017,2,1,6,1
+Aihen Muñoz,ESP,Defender (DF),Real Sociedad,26,21,1098,0,0,5,0
+Álex Muñoz,ESP,Defender (DF),Las Palmas,30,21,1415,3,0,3,0
+Iker Muñoz,ESP,Midfielder (MF),Osasuna,21,23,610,0,1,2,0
+Javier Muñoz,ESP,Midfielder (MF),Las Palmas,29,35,2588,1,3,5,0
+Víctor Muñoz,ESP,Forward (FW),Real Madrid,21,2,36,0,0,0,0
+Vedat Muriqi,KVX,Forward (FW),Mallorca,30,29,2058,7,2,1,2
+Juan Musso,ARG,Goalkeeper (GK),Atlético Madrid,30,2,180,0,0,0,0
+Matija Nastasić,SRB,Defender (DF),Leganés,31,26,2110,1,0,3,0
+Natan,BRA,Defender (DF),Betis,23,31,2175,1,1,5,1
+Pau Navarro,ESP,Defender (DF),Villarreal,19,17,916,0,0,1,0
+Roberto Navarro,ESP,Midfielder (MF),Mallorca,22,23,1278,1,0,3,0
+Jesús Navas,ESP,Forward (FW),Sevilla,38,15,424,1,0,0,0
+Yvan Neyou,CMR,Midfielder (MF),Leganés,27,30,2312,1,1,14,0
+Tanguy Nianzou,FRA,Defender (DF),Sevilla,22,6,518,0,0,3,1
+Saúl Ñíguez,ESP,Midfielder (MF),Sevilla,29,24,1553,1,6,8,1
+Tamás Nikitscher,HUN,Midfielder (MF),Valladolid,24,13,858,0,0,2,0
+Adrian Niño,ESP,Forward (FW),Atlético Madrid,20,1,12,0,0,0,0
+Hugo Novoa,ESP,Defender (DF),Alavés,21,5,237,0,0,0,0
+Randy Nteka,ANG,Forward (FW),Rayo Vallecano,26,24,1129,3,0,6,0
+Unai Núñez,ESP,Defender (DF),Athletic Club,27,10,645,0,0,4,0
+Ørjan Nyland,NOR,Goalkeeper (GK),Sevilla,33,30,2673,0,0,2,0
+Allan Nyom,CMR,Defender (DF),Getafe,36,20,887,1,2,4,0
+Jan Oblak,SVN,Goalkeeper (GK),Atlético Madrid,31,36,3240,0,0,0,0
+Lucas Ocampos,ARG,Forward (FW),Sevilla,30,2,175,0,1,0,0
+Álvaro Odriozola,ESP,Defender (DF),Real Sociedad,28,2,43,0,0,1,0
+Thiago Ojeda,ARG,Midfielder (MF),Villarreal,21,1,8,0,0,1,0
+Aingeru Olabarrieta,ESP,Forward (FW),Athletic Club,18,1,54,0,0,0,0
+Olasagasti,ESP,Midfielder (MF),Real Sociedad,23,22,857,1,1,2,0
+Brian Oliván,ESP,Defender (DF),Espanyol,30,17,1017,0,1,2,0
+Lucas Oliveira Rosa,BRA,Defender (DF),Valladolid,24,21,1890,0,1,6,0
+Dani Olmo,ESP,Midfielder (MF),Barcelona,26,25,1212,10,3,1,0
+Aimar Oroz,ESP,Midfielder (MF),Osasuna,22,37,2966,5,4,8,0
+Ángel Ortíz,ESP,Defender (DF),Betis,20,5,353,0,1,0,0
+Gabriel Osei Misehouy,NED,Forward (FW),Girona,19,9,257,1,0,0,0
+David Otorbi,ESP,Midfielder (MF),Valencia,16,1,14,0,0,0,0
+Jesús Owono,EQG,Goalkeeper (GK),Alavés,23,6,487,0,0,0,0
+Mikel Oyarzabal,ESP,Forward (FW),Real Sociedad,27,35,2250,9,3,4,1
+Cenk Özkacar,TUR,Defender (DF),Valladolid,23,11,757,0,0,1,0
+Jon Pacheco,ESP,Defender (DF),Real Sociedad,23,14,854,0,0,3,0
+Alex Padilla,ESP,Goalkeeper (GK),Athletic Club,20,5,321,0,0,0,0
+Isaac Palazón Camacho,ESP,Midfielder (MF),Rayo Vallecano,29,35,2162,4,4,5,0
+Aitor Paredes,ESP,Defender (DF),Athletic Club,24,23,1812,3,0,4,1
+Daniel Parejo,ESP,Midfielder (MF),Villarreal,35,36,2273,3,3,8,0
+Iago Parente,ESP,Defender (DF),Valladolid,18,1,71,0,0,0,0
+Álvaro Pascual,ESP,Forward (FW),Sevilla,22,8,408,1,0,1,0
+Alfonso Pedraza,ESP,Defender (DF),Villarreal,28,12,460,0,2,0,0
+Pedri,ESP,Midfielder (MF),Barcelona,21,37,2879,4,5,3,0
+Adrià Pedrosa,ESP,Defender (DF),Sevilla,26,31,2298,1,1,7,0
+Pejiño,ESP,Forward (FW),Las Palmas,28,1,16,0,0,0,0
+Andy Pelmard,FRA,Defender (DF),Las Palmas,24,4,205,0,0,1,0
+Iñaki Peña,ESP,Goalkeeper (GK),Barcelona,25,16,1396,0,0,1,0
+Rubén Peña,ESP,Forward (FW),Osasuna,33,25,775,0,0,1,0
+Nicolas Pépé,CIV,Forward (FW),Villarreal,29,28,1500,3,6,3,0
+Peque,ESP,Midfielder (MF),Sevilla,21,26,1134,1,1,1,0
+Ayoze Pérez,ESP,Forward (FW),Villarreal,31,30,1970,19,2,4,0
+Carles Pérez,ESP,Midfielder (MF),Getafe,26,27,1431,3,0,2,0
+Francisco Perez,ESP,Forward (FW),Valencia,21,26,570,0,0,1,0
+Kike Pérez,ESP,Midfielder (MF),Valladolid,27,19,1191,2,0,6,0
+Luis Pérez,ESP,Defender (DF),Valladolid,29,30,2558,0,0,2,0
+Romain Perraud,FRA,Defender (DF),Betis,26,28,2002,2,2,8,1
+Valentín Pezzolesi,ESP,Defender (DF),Las Palmas,17,1,6,0,0,0,0
+Pica,ESP,Defender (DF),Alavés,22,9,499,0,0,1,0
+Yeremi Pino,ESP,Midfielder (MF),Villarreal,21,34,1934,4,7,11,0
+Portu,ESP,Forward (FW),Girona,32,27,779,1,2,4,0
+Beñat Prados,ESP,Midfielder (MF),Athletic Club,23,30,1715,1,0,7,0
+Abdón Prats,ESP,Forward (FW),Mallorca,31,24,456,2,0,4,0
+Javi Puado,ESP,Forward (FW),Espanyol,26,35,2974,12,4,8,0
+Dani Raba,ESP,Forward (FW),Leganés,28,29,1879,8,6,6,0
+Arnau Rafús,ESP,Goalkeeper (GK),Valladolid,21,1,90,0,0,0,0
+Antonio Raillo,ESP,Defender (DF),Mallorca,32,36,3207,2,0,7,1
+Benito Ramírez,ESP,Defender (DF),Las Palmas,29,19,478,0,0,2,1
+Sandro Ramírez,ESP,Forward (FW),Las Palmas,29,31,2034,9,3,6,0
+Jacobo Ramón,ESP,Defender (DF),Real Madrid,19,3,204,1,0,1,0
+Raphinha,BRA,Forward (FW),Barcelona,27,36,2839,18,9,4,0
+Andrei Ratiu,ROU,Defender (DF),Rayo Vallecano,26,35,3065,2,3,5,0
+Raúl,ESP,Forward (FW),Osasuna,23,32,750,4,0,1,0
+Abderrahman Rebbach,ALG,Forward (FW),Alavés,25,8,385,0,0,1,0
+Álex Remiro,ESP,Goalkeeper (GK),Real Sociedad,29,36,3240,0,0,0,0
+Daniel Requena,ESP,Midfielder (MF),Villarreal,20,1,10,0,0,0,0
+Diego Rico,ESP,Defender (DF),Getafe,31,33,2819,0,3,9,1
+Luis Rioja,ESP,Forward (FW),Alavés,30,1,23,0,0,0,0
+Luis Rioja,ESP,Forward (FW),Valencia,30,36,2831,5,3,6,0
+Rodrigo Riquelme,ESP,Midfielder (MF),Atlético Madrid,24,16,516,0,1,0,0
+Alberto Risco,ESP,Midfielder (MF),Getafe,18,5,69,0,0,0,0
+Mihailo Ristić,SRB,Defender (DF),Celta Vigo,28,10,429,0,1,1,0
+Gorka Rivera Alonso,ESP,Defender (DF),Getafe,19,1,20,0,0,0,0
+Marc Roca,ESP,Midfielder (MF),Betis,27,14,906,2,2,4,0
+Rodri,ESP,Forward (FW),Betis,24,3,118,0,0,0,0
+Adrian Rodriguez,ESP,Goalkeeper (GK),Alavés,23,2,122,0,0,1,0
+Álvaro Rodríguez,URU,Forward (FW),Getafe,20,22,852,2,0,6,0
+Óscar Rodríguez Arnaiz,ESP,Midfielder (MF),Leganés,26,29,1330,1,4,6,1
+Arturo Rodríguez,ESP,Forward (FW),Las Palmas,17,1,21,0,0,0,0
+Damián Rodríguez,ESP,Midfielder (MF),Celta Vigo,21,17,927,0,0,3,0
+Dani Rodríguez,ESP,Midfielder (MF),Mallorca,36,37,2162,4,7,5,0
+Daniel Rodriguez,ESP,Forward (FW),Barcelona,18,1,37,0,0,0,0
+James Rodríguez,COL,Midfielder (MF),Rayo Vallecano,33,6,140,0,0,1,0
+Javi Rodríguez,ESP,Defender (DF),Celta Vigo,21,36,2514,3,2,7,0
+Jesus Rodríguez,ESP,Forward (FW),Betis,18,21,1111,2,0,0,0
+Kirian Rodríguez,ESP,Midfielder (MF),Las Palmas,28,21,1758,0,3,2,0
+Ricardo Rodríguez,SUI,Defender (DF),Betis,31,18,1274,0,1,0,0
+Rodrygo,BRA,Forward (FW),Real Madrid,23,30,1928,6,5,0,0
+Leo Román,ESP,Goalkeeper (GK),Mallorca,24,7,630,0,0,0,0
+Carlos Romero,ESP,Defender (DF),Espanyol,22,34,2554,2,1,7,0
+Isaac Romero,ESP,Forward (FW),Sevilla,24,31,2156,4,2,10,1
+Luka Romero,ARG,Forward (FW),Alavés,19,6,199,0,0,0,0
+Oriol Romeu,ESP,Midfielder (MF),Girona,32,25,1356,0,0,5,0
+Vitor Roque,BRA,Forward (FW),Betis,19,22,1235,4,0,4,0
+Valentin Rosier,FRA,Defender (DF),Leganés,27,32,2595,1,2,8,0
+Antonio Rüdiger,GER,Defender (DF),Real Madrid,31,29,2291,0,0,3,0
+Aitor Ruibal,ESP,Defender (DF),Betis,28,29,1313,1,3,5,0
+Abel Ruiz,ESP,Forward (FW),Girona,24,23,1346,4,0,3,0
+Ferrán Ruiz,ESP,Midfielder (MF),Girona,21,1,18,0,0,0,0
+Youssouf Sabaly,SEN,Defender (DF),Betis,31,22,1581,0,1,1,0
+Umar Sadiq,NGA,Forward (FW),Valencia,27,16,825,5,0,4,0
+Umar Sadiq,NGA,Forward (FW),Real Sociedad,27,7,227,0,0,1,0
+Jorge Sáenz,ESP,Defender (DF),Leganés,27,23,1690,1,0,4,1
+Jan Salas,ESP,Midfielder (MF),Mallorca,18,4,43,0,0,0,0
+Kike Salas,ESP,Defender (DF),Sevilla,22,31,2238,3,2,6,0
+Albert Sambi Lokonga,BEL,Midfielder (MF),Sevilla,24,22,1471,0,2,4,0
+Chuky san jose,ESP,Midfielder (MF),Valladolid,20,18,728,2,0,1,0
+Oihan Sancet,ESP,Midfielder (MF),Athletic Club,24,29,1620,15,1,2,0
+Antonio Sánchez,ESP,Midfielder (MF),Mallorca,27,33,1395,0,0,3,0
+Iván Sánchez,ESP,Midfielder (MF),Valladolid,31,32,1404,2,1,4,0
+Javi Sánchez,ESP,Defender (DF),Valladolid,27,25,2026,2,0,6,0
+Juanlu Sánchez,ESP,Midfielder (MF),Sevilla,20,32,1722,4,4,6,1
+Manu Sánchez,ESP,Defender (DF),Alavés,23,33,2634,1,0,6,1
+Maroan Sannadi,MAR,Forward (FW),Athletic Club,23,16,754,1,1,0,0
+Jesús Santiago,ESP,Midfielder (MF),Getafe,20,19,372,0,0,5,0
+Aleksandar Sedlar,SRB,Defender (DF),Alavés,32,9,594,0,0,1,1
+Sergi,ESP,Defender (DF),Leganés,32,36,2957,2,0,2,1
+Nicolás Serrano,ESP,Forward (FW),Athletic Club,21,4,112,0,0,0,0
+Fábio Silva,POR,Forward (FW),Las Palmas,22,24,1866,10,3,7,0
+Rui Silva,POR,Goalkeeper (GK),Betis,30,15,1350,0,0,1,0
+Giuliano Simeone,ARG,Midfielder (MF),Atlético Madrid,21,33,1926,2,6,4,0
+Unai Simón,ESP,Goalkeeper (GK),Athletic Club,27,21,1890,0,0,0,0
+Daley Sinkgraven,NED,Defender (DF),Las Palmas,29,2,91,0,0,0,0
+Jailson Siqueira,BRA,Defender (DF),Celta Vigo,28,13,614,0,0,2,0
+Antonio Sivera,ESP,Goalkeeper (GK),Alavés,27,32,2810,0,0,6,1
+Justin Smith,CAN,Midfielder (MF),Espanyol,21,5,209,0,0,0,0
+Alex Sola,ESP,Midfielder (MF),Getafe,25,19,1029,0,1,4,0
+Arnau Solà,ESP,Midfielder (MF),Villarreal,21,1,13,0,0,0,0
+Jhon Solis,COL,Midfielder (MF),Girona,19,19,535,1,0,3,0
+David Soria,ESP,Goalkeeper (GK),Getafe,31,38,3420,0,0,2,0
+Juan Soriano,ESP,Goalkeeper (GK),Leganés,26,6,540,0,0,1,1
+Hugo Sotelo,ESP,Midfielder (MF),Celta Vigo,20,24,1254,0,0,5,0
+Djibril Sow,SUI,Midfielder (MF),Sevilla,27,30,2062,2,1,5,0
+Carl Starfelt,SWE,Defender (DF),Celta Vigo,29,28,2270,1,0,5,0
+Orri Steinn Óskarsson,ISL,Forward (FW),Real Sociedad,19,23,944,3,0,1,0
+Stoichkov,ESP,Midfielder (MF),Alavés,30,16,699,0,1,1,0
+Cristhian Stuani,URU,Forward (FW),Girona,37,32,1078,11,2,4,0
+Álex Suárez,ESP,Defender (DF),Las Palmas,31,30,2460,0,0,12,0
+Denis Suárez,ESP,Midfielder (MF),Villarreal,30,21,608,1,1,0,0
+Luka Sučić,CRO,Midfielder (MF),Real Sociedad,21,29,1792,1,1,4,0
+Suso,ESP,Forward (FW),Sevilla,30,16,606,0,2,3,0
+Williot Swedberg,SWE,Forward (FW),Celta Vigo,20,32,1348,4,5,1,0
+Mamadou Sylla,SEN,Forward (FW),Valladolid,30,29,1583,5,1,5,0
+Wojciech Szczęsny,POL,Goalkeeper (GK),Barcelona,34,15,1350,0,0,0,0
+Alexander Sørloth,NOR,Forward (FW),Atlético Madrid,28,35,1566,20,2,4,0
+Renato Tapia,PER,Midfielder (MF),Leganés,29,34,2424,1,0,8,0
+César Tárrega,ESP,Defender (DF),Valencia,22,34,3026,2,0,7,0
+Aurélien Tchouaméni,FRA,Defender (DF),Real Madrid,24,32,2689,0,0,5,0
+Álvaro Tejero,ESP,Midfielder (MF),Espanyol,28,28,1238,1,4,2,0
+Martín Tejón,ESP,Midfielder (MF),Valencia,20,4,49,0,0,0,0
+Nahuel Tenaglia,ARG,Defender (DF),Alavés,28,34,2922,2,1,11,0
+Marc-André ter Stegen,GER,Goalkeeper (GK),Barcelona,32,8,674,0,0,0,0
+Ramón Terrats,ESP,Midfielder (MF),Villarreal,23,11,131,0,0,1,0
+Ramón Terrats,ESP,Midfielder (MF),Getafe,23,15,1219,4,1,1,0
+Raúl de Tomás,ESP,Defender (DF),Rayo Vallecano,29,2,22,0,0,0,0
+Pablo Torre,ESP,Midfielder (MF),Barcelona,21,10,310,3,1,0,0
+David Torres,ESP,Defender (DF),Valladolid,21,18,1387,0,0,5,0
+Ferrán Torres,ESP,Forward (FW),Barcelona,24,27,1106,10,6,1,1
+Lucas Torró,ESP,Midfielder (MF),Osasuna,30,35,2957,3,0,10,0
+Hamari Traoré,MLI,Defender (DF),Real Sociedad,32,11,700,0,1,2,0
+Óscar Trejo,ARG,Midfielder (MF),Rayo Vallecano,36,19,496,1,0,1,0
+Viktor Tsyhankov,UKR,Forward (FW),Girona,26,27,1913,2,5,1,0
+Beñat Turrientes,ESP,Midfielder (MF),Real Sociedad,22,21,942,0,0,4,0
+Christantus Uche,NGA,Forward (FW),Getafe,21,33,2486,4,6,8,2
+Naci Ünüvar,NED,Midfielder (MF),Espanyol,21,2,31,0,0,0,0
+Óscar Valentín,ESP,Midfielder (MF),Rayo Vallecano,29,34,1835,0,0,5,0
+Germán Valera,ESP,Midfielder (MF),Valencia,22,8,148,0,0,0,0
+Martin Valjent,SVK,Defender (DF),Mallorca,28,31,2763,3,0,4,0
+Jesús Vallejo,ESP,Defender (DF),Real Madrid,27,4,138,0,1,0,0
+Federico Valverde,URU,Midfielder (MF),Real Madrid,26,36,3032,6,4,4,0
+Siebe Van Der Heyden,BEL,Defender (DF),Mallorca,26,2,97,0,0,0,0
+Ruben Vargas,SUI,Forward (FW),Sevilla,25,11,671,2,1,0,0
+José Luis García Vayá,ESP,Midfielder (MF),Valencia,25,34,1742,2,2,8,1
+Jesus Vazquez,ESP,Defender (DF),Valencia,21,19,919,0,0,3,0
+Lucas Vázquez,ESP,Defender (DF),Real Madrid,33,32,2189,1,5,4,0
+Alejo Véliz,ARG,Forward (FW),Espanyol,20,27,1127,1,0,3,0
+Mikel Vesga,ESP,Midfielder (MF),Athletic Club,31,25,988,0,0,1,0
+Carlos Vicente,ESP,Forward (FW),Alavés,25,37,3092,5,5,3,0
+Pau Victor,ESP,Forward (FW),Barcelona,22,21,319,2,1,2,0
+Nacho Vidal,ESP,Defender (DF),Osasuna,29,5,124,0,0,0,0
+Fran Vieites,ESP,Goalkeeper (GK),Betis,25,4,360,0,0,0,0
+Sergio Viera,ESP,Midfielder (MF),Las Palmas,19,2,96,0,0,1,0
+Asier Villalibre,ESP,Forward (FW),Alavés,26,16,333,1,1,2,0
+Iván Villar,ESP,Goalkeeper (GK),Celta Vigo,27,4,360,0,0,0,0
+Viti,ESP,Defender (DF),Las Palmas,26,29,1982,0,2,5,0
+Daniel Vivian,ESP,Defender (DF),Athletic Club,25,32,2608,4,0,3,0
+Krapyvtsov Vladyslav,UKR,Goalkeeper (GK),Girona,19,2,180,0,0,0,0
+Iñaki Williams,GHA,Forward (FW),Athletic Club,30,35,2652,6,8,1,0
+Nico Williams,ESP,Forward (FW),Athletic Club,22,29,1996,5,5,1,0
+Axel Witsel,BEL,Defender (DF),Atlético Madrid,35,14,852,0,1,1,0
+Lamine Yamal,ESP,Forward (FW),Barcelona,17,35,2856,9,13,3,0
+Daniel Yáñez,ESP,Forward (FW),Real Madrid,17,1,2,0,0,0,0
+Bertuğ Yıldırım,TUR,Forward (FW),Getafe,22,22,1083,1,0,7,0
+Arsen Zakharyan,RUS,Midfielder (MF),Real Sociedad,21,3,73,1,0,0,0
+Bryan Zaragoza,ESP,Forward (FW),Osasuna,23,27,1836,1,6,4,0
+Igor Zubeldia,ESP,Defender (DF),Real Sociedad,27,28,2269,0,0,6,1
+Martín Zubimendi,ESP,Midfielder (MF),Real Sociedad,25,36,2962,2,1,6,0
