@@ -42,5 +42,35 @@ public class Player {
     public String getName() {
         return name;
     }
+    public String getNation() {
+        return nation;
+    }
+    public String getPosition() {
+        return position;
+    }
+    public String getTeam(){
+        return team;
+    }
+    public int getAge() {
+        return age;
+    }
+    public int getMatches() {
+        return matches;
+    }
+    public int getMin() {
+        return min;
+    }
+    public int getGoals() {
+        return goals;
+    }
+    public int getAssists() {
+        return assists;
+    }
+    public int getYellowCards() {
+        return yellowCards;
+    }
+    public int getRedCards() {
+        return redCards;
+    }
 
 }
