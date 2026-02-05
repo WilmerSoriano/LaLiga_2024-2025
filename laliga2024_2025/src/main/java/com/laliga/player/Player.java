@@ -5,7 +5,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
-@Entity // To mark this class as a JPA entity, meaning it will be mapped to a database table
+@Entity // To mark this class as a JPA entity, meaning it will be mapped to a database table (SEE PlayerRepository.java for more info)
 @Table(name = "players") // Specifies the name of the database table to which this entity is mapped (yes my database table is called players)
 public class Player {
 
