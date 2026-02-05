@@ -1,5 +1,6 @@
 package com.laliga.player;
 
+import java.util.List;
 import java.util.Optional;
 
 import org.springframework.data.jpa.repository.JpaRepository; // JpaRepository provides JPA  with related methods e.g CRUD operations
@@ -8,6 +9,9 @@ import org.springframework.stereotype.Repository;            // Which allowes me
 @Repository
 public interface PlayerRepository extends JpaRepository<Player, Integer> { // Creates a database access layer for the Player table/entity.
     Optional<Player> findByName(String name); // The optional type is used to represent a value that may or may not be present in the database
+
+    List<Player> findPlayersByTeam(String teamName);
+    List<Player> findPlayersByName(String searchTxt);
 }
 
 
