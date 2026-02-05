@@ -33,8 +33,12 @@ public class PlayerService {
                 return playerRepository.findPlayersByTeam(teamName); // - More efficient, now PlayerRepository handles the filer at SQL level rather than java conversion
     }
 
-    public List<Player> getPlayersByName(String searchTxt){
+    public List<Player> findPlayersByName(String searchTxt){
         return playerRepository.findPlayersByName(searchTxt);
+    }
+
+    public List<Player> findPlayersbyNation(String nationName){
+        return PlayerRepository.findPlayersByNation(nationName);
     }
 
 }

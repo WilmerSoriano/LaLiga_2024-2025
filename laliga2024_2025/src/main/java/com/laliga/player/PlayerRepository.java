@@ -12,6 +12,7 @@ public interface PlayerRepository extends JpaRepository<Player, Integer> { // Cr
 
     List<Player> findPlayersByTeam(String teamName);
     List<Player> findPlayersByName(String searchTxt);
+    List<Player> findPlayersByNation(String nationName);
 }
 
 
