@@ -37,8 +37,8 @@ public class PlayerService {
         return playerRepository.findPlayersByName(searchTxt);
     }
 
-    public List<Player> findPlayersbyNation(String nationName){
-        return PlayerRepository.findPlayersByNation(nationName);
+    public List<Player> findPlayersByNation(String nationName){
+        return playerRepository.findPlayersByNation(nationName);
     }
 
 }
