@@ -41,4 +41,31 @@ public class PlayerService {
         return playerRepository.findPlayersByNation(nationName);
     }
 
+    public List<Player> findPlayersByPosition(String position){
+        return playerRepository.findPlayersByPosition(position);
+    }
+
+    public List<Player> findPlayerByAge(int age){
+        return playerRepository.findPlayerByAge(age);
+    }
+
+    public List<Player> findPlayerByMatch(int match){
+        return playerRepository.findPlayerByMatch(match);
+    }
+
+    public List<Player> findPlayerByGoal(int goal){
+        return playerRepository.findPlayerByGoal(goal);
+    }
+
+    public List<Player> findPlayerByAssist(int assist){
+        return playerRepository.findPlayerByAssist(assist);
+    }
+
+    public List<Player> findPlayerByYellowCard(int yellowCard){
+        return playerRepository.findPlayerByYellowCard(yellowCard);
+    }
+
+    public List<Player> findPlayerByRedCard(int redCard){
+        return playerRepository.findPlayerByRedCard(redCard);
+    }
 }

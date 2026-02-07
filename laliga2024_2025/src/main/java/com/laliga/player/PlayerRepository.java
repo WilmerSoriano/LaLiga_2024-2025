@@ -13,6 +13,13 @@ public interface PlayerRepository extends JpaRepository<Player, Integer> { // Cr
     List<Player> findPlayersByTeam(String teamName);
     List<Player> findPlayersByName(String searchTxt);
     List<Player> findPlayersByNation(String nationName);
+    List<Player> findPlayersByPosition(String position);
+    List<Player> findPlayerByAge(int age);
+    List<Player> findPlayerByMatch(int match);
+    List<Player> findPlayerByGoal(int goal);
+    List<Player> findPlayerByAssist(int assist);
+    List<Player> findPlayerByYellowCard(int yellowCard);
+    List<Player> findPlayerByRedCard(int redCard);
 }
 
 
