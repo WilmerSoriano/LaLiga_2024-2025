@@ -1,6 +1,7 @@
 package com.laliga.laliga2024_2025.player;
 
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -29,43 +30,43 @@ public class PlayerService {
         2. Loop through each player and check if they belong to specific team 
         3. collect the filter result and convert them to List type
     */
-    public List<Player> findPlayersByTeam(String teamName){
-                return playerRepository.findPlayersByTeam(teamName); // - More efficient, now PlayerRepository handles the filer at SQL level rather than java conversion
+
+    public Optional<Player> findByName(String name) {
+        return playerRepository.findByName(name);
+    }
+    public List<Player> findByTeam(String teamName){
+                return playerRepository.findByTeam(teamName); // - More efficient, now PlayerRepository handles the filer at SQL level rather than java conversion
     }
 
-    public List<Player> findPlayersByName(String searchTxt){
-        return playerRepository.findPlayersByName(searchTxt);
+    public List<Player> findByNation(String nationName){
+        return playerRepository.findByNation(nationName);
     }
 
-    public List<Player> findPlayersByNation(String nationName){
-        return playerRepository.findPlayersByNation(nationName);
+    public List<Player> findByPosition(String position){
+        return playerRepository.findByPosition(position);
     }
 
-    public List<Player> findPlayersByPosition(String position){
-        return playerRepository.findPlayersByPosition(position);
+    public List<Player> findByAge(int age){
+        return playerRepository.findByAge(age);
     }
 
-    public List<Player> findPlayerByAge(int age){
-        return playerRepository.findPlayerByAge(age);
+    public List<Player> findByMatchCount(int matchCount){
+        return playerRepository.findByMatchCount(matchCount);
     }
 
-    public List<Player> findPlayerByMatch(int match){
-        return playerRepository.findPlayerByMatch(match);
+    public List<Player> findByGoal(int goal){
+        return playerRepository.findByGoals(goal);
     }
 
-    public List<Player> findPlayerByGoal(int goal){
-        return playerRepository.findPlayerByGoal(goal);
+    public List<Player> findByAssist(int assist){
+        return playerRepository.findByAssists(assist);
     }
 
-    public List<Player> findPlayerByAssist(int assist){
-        return playerRepository.findPlayerByAssist(assist);
+    public List<Player> findByYellowCard(int yellowCard){
+        return playerRepository.findByYellowCards(yellowCard);
     }
 
-    public List<Player> findPlayerByYellowCard(int yellowCard){
-        return playerRepository.findPlayerByYellowCard(yellowCard);
-    }
-
-    public List<Player> findPlayerByRedCard(int redCard){
-        return playerRepository.findPlayerByRedCard(redCard);
+    public List<Player> findByRedCard(int redCard){
+        return playerRepository.findByRedCards(redCard);
     }
 }

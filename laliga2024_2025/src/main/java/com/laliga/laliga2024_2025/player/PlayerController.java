@@ -27,42 +27,45 @@ public class PlayerController {
         @RequestParam(required = false) String nation,
         @RequestParam(required = false) String position,
         @RequestParam(required = false) Integer age,
-        @RequestParam(required = false) Integer match,
+        @RequestParam(required = false) Integer matchCount,
         @RequestParam(required = false) Integer goal,
         @RequestParam(required = false) Integer assist,
         @RequestParam(required = false) Integer yellowCard,
         @RequestParam(required = false) Integer redCard
     )
     {
-        if (team != null && !team.isEmpty()) {
-            return playerService.findPlayersByTeam(team);
-        }
         if (name != null && !name.isEmpty()) {
-            return playerService.findPlayersByName(name);
+            return playerService
+                .findByName(name)
+                .map(List::of)      // Optional<Player> → List<Player>
+                .orElse(List.of()); // empty list if not found
+        }
+        if (team != null && !team.isEmpty()) {
+            return playerService.findByTeam(team);
         }
         if (nation != null && !nation.isEmpty()) {
-            return playerService.findPlayersByNation(nation);
+            return playerService.findByNation(nation);
         }
         if (position != null && !position.isEmpty()) {
-            return playerService.findPlayersByPosition(position);
+            return playerService.findByPosition(position);
         }
         if (age != null) {
-            return playerService.findPlayerByAge(age);
+            return playerService.findByAge(age);
         }
-        if (match != null) {
-            return playerService.findPlayerByMatch(match);
+        if (matchCount != null) {
+            return playerService.findByMatchCount(matchCount);
         }
         if (goal != null) {
-            return playerService.findPlayerByGoal(goal);
+            return playerService.findByGoal(goal);
         }
         if (assist != null) {
-            return playerService.findPlayerByAssist(assist);
+            return playerService.findByAssist(assist);
         }
         if (yellowCard != null) {
-            return playerService.findPlayerByYellowCard(yellowCard);
+            return playerService.findByYellowCard(yellowCard);
         }
         if (redCard != null) {
-            return playerService.findPlayerByRedCard(redCard);
+            return playerService.findByRedCard(redCard);
         }
         return playerService.getPlayers(); // If no query parameter is provided, return all players
     }

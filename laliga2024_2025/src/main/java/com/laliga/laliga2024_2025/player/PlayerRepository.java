@@ -10,16 +10,15 @@ import org.springframework.stereotype.Repository;            // Which allowes me
 public interface PlayerRepository extends JpaRepository<Player, Integer> { // Creates a database access layer for the Player table/entity.
     Optional<Player> findByName(String name); // The optional type is used to represent a value that may or may not be present in the database
 
-    List<Player> findPlayersByTeam(String teamName);
-    List<Player> findPlayersByName(String searchTxt);
-    List<Player> findPlayersByNation(String nationName);
-    List<Player> findPlayersByPosition(String position);
-    List<Player> findPlayerByAge(int age);
-    List<Player> findPlayerByMatch(int match);
-    List<Player> findPlayerByGoal(int goal);
-    List<Player> findPlayerByAssist(int assist);
-    List<Player> findPlayerByYellowCard(int yellowCard);
-    List<Player> findPlayerByRedCard(int redCard);
+    List<Player> findByTeam(String teamName);
+    List<Player> findByNation(String nationName);
+    List<Player> findByPosition(String position);
+    List<Player> findByAge(int age);
+    List<Player> findByMatchCount(int matchCount);
+    List<Player> findByGoals(int goal);
+    List<Player> findByAssists(int assist);
+    List<Player> findByYellowCards(int yellowCard);
+    List<Player> findByRedCards(int redCard);
 }
 
 
