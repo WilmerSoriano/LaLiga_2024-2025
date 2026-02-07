@@ -1,4 +1,4 @@
-package com.laliga.player; // The package declaration indicates that this class is part of the com.laliga.player folder
+package com.laliga.laliga2024_2025.player; // The package declaration indicates that this class is part of the com.laliga.player folder
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

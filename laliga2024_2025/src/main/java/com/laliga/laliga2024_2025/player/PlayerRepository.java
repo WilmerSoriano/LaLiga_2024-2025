@@ -1,4 +1,4 @@
-package com.laliga.player;
+package com.laliga.laliga2024_2025.player;
 
 import java.util.List;
 import java.util.Optional;
