@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController // Does 3 things at once: 1. this class handles HTTP request, 2. mehtods reutnr data not HTML pages, 3. return object are auto converted to JSON
-@RequestMapping(path = "/players") // Base URL path for all endpoints in this controller, e.g., /players, /players/{id}
+@RequestMapping(path ="/players") // Base URL path for all endpoints in this controller, e.g., /players, /players/{id}
 public class PlayerController {
     private final PlayerService playerService;
 
@@ -19,7 +19,7 @@ public class PlayerController {
         this.playerService = playerService;
     }
 
-    @GetMapping("path") //hanldes all GET requets to players/path such as ex: /players/path?[param]=[value we want to search] 
+    @GetMapping //hanldes all GET requets to players/path such as ex: /players/path?[param]=[value we want to search] 
     public List<Player> getPlayers(
         // if required = false, it means the query parameter is optional
         @RequestParam(required = false) String team, // All Optional query parameter for filtering by any of these
